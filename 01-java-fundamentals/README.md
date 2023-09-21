@@ -1,7 +1,5 @@
 # 1. Java Fundamentals
 
-## Jargon
-
 Term | Notes
 ----:|:-----
 compilation unit | source file, 1+ class defs
